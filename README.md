@@ -1,4 +1,5 @@
 ## Hi there 👋
+🎯target: write beautiful codes
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhhxx?theme=light&font=Acme&ext=heatmap&site=cn)
 <!--
 **bhhxx/bhhxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
